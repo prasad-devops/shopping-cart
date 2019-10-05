@@ -1,1 +1,1 @@
-done the chagnes to practive pull operation
+done the chagnes to practive pull operation.
