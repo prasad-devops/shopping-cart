@@ -18,16 +18,16 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>corp1</id>
-      <name>Corporate Repository</name>
-      <url>scp://repo/maven2</url>
+      <id>shopping-card-release</id>
+      <name>shopping-card-release</name>
+      <url>http://ec2-107-23-217-46.compute-1.amazonaws.com:8086/nexus/content/repositories/shopping-card-release/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>propSnap</id>
-      <name>Propellors Snapshots</name>
-      <url>sftp://propellers.net/maven</url>
+      <id>shopping-card-snapshot</id>
+      <name>shopping-card-snapshot</name>
+      <url>http://ec2-107-23-217-46.compute-1.amazonaws.com:8086/nexus/content/repositories/shopping-card-snapshot/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>  
