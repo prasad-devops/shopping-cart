@@ -20,14 +20,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>shopping-card-release</id>
       <name>shopping-card-release</name>
-      <url>http://ec2-107-23-217-46.compute-1.amazonaws.com:8086/nexus/content/repositories/shopping-card-release/</url>
+      <url>http://ec2-18-232-68-147.compute-1.amazonaws.com:8086/nexus/content/repositories/shopping-card-release/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>shopping-card-snapshot</id>
       <name>shopping-card-snapshot</name>
-      <url>http://ec2-107-23-217-46.compute-1.amazonaws.com:8086/nexus/content/repositories/shopping-card-snapshot/</url>
+      <url>http://ec2-18-232-68-147.compute-1.amazonaws.com:8086/nexus/content/repositories/shopping-card-snapshot/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>  
